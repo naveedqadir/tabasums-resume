@@ -49,8 +49,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m an Journalism and Mass Communication Student and a Part
-        time Youtuber!
+        Hello, I&apos;m a Journalism and Mass Communication Student and a Youtuber!
       </Box>
 
       <Box display={{ md: 'flex' }}>
